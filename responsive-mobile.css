@@ -1,0 +1,221 @@
+
+
+/* Mobile Phone Responsive */
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- */
+
+@media only screen and (min-width: 200px) and (max-width: 768px){
+    body{
+        /* Hero Section Start Here */
+        .hero-section h1{
+            font-size: 23px;
+        }
+        .hero-section p{
+            font-size: 16px;
+        }
+        .hero-section .btn h3{
+            font-size: 16px;
+        }
+        .hero-section .d-flex{
+            padding-left: 0px;
+            margin-top: -180px;
+        }
+        .hero-section img{
+            width: 100%;
+            height: auto;
+            margin-top: 60px;
+        }
+        /* Hero Section End Here */
+
+
+        /* About Section Start Here */
+        .about-section p{
+            font-size: 14px;
+        }
+        .about-section h6{
+            font-size: 15px;
+        }
+        .about-section .btn h3{
+            font-size: 14px;
+        }
+        .about-section .btn{
+            margin: 0 auto;
+        }
+        .about-section .text-area{
+            width: 100%;
+        }
+        /* About Section End Here */
+
+        /* Our Values Section start Here */
+        .global p{
+            font-size: 14px;
+        }
+        .global h1{
+            font-size: 21px;
+        }
+        .test1 .box h4{
+            font-size: 19px;
+        }
+        .test1 img{
+            padding: 0;
+        }
+        .test1 .box{
+            height: auto;
+        }
+        /* Our Values Section End Here */
+
+
+        /* Features Section Start Here */
+        .test3 .container > .global > h1{
+            font-size: 22px;
+            margin-bottom: 40px;
+        }
+        .test3 .image{
+            width: 100%;
+            height: auto;
+            margin-left: 0;
+            margin-bottom: 20px;
+        }
+        /* Features Section End Here */
+
+
+        /* Features Section Start Here */
+        .test3 .box{
+            margin-top: 0px;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+        .test3 .row{
+            margin-bottom: 0;
+            margin-top: 0;
+        }
+        /* Features Section End Here */
+
+
+        /* Feature Tabs Section Start Here */
+        .test4 h2{
+            font-size: 22px;
+        }
+        .test4 h5{
+            font-size: 14px;
+        }
+        .test4 p{
+            font-size: 14px;
+        }
+        .test4 .text > h5{
+            font-size: 16px;
+        }
+        .test4 .image{
+            width: 100%;
+            height: auto;
+            margin-left: 0px;
+        }
+        /* Feature Tabs Section End Here */
+
+
+        /* Feature icons Section Start Here */
+        .test5 .global h1{
+            font-size: 22px;
+        }
+        .test5 h2{
+            font-size: 15px;
+        }
+        .test5 p{
+            font-size: 13px;
+        }
+        .test5 img{
+            padding: 60px;
+        }
+        /* Feature icons Section End Here */
+
+
+        /* Pricing Section Start Here */
+        .pricing-section .box{
+            height: auto;
+            margin-bottom: 30px;
+        }
+        /* Pricing Section End Here */
+
+
+        /* Serivec Section Start Here */
+        .service-section .box{
+            height: auto;
+        }
+        /* Serivec Section End Here */
+
+
+        /* Portfolio Section Start Here */
+        #portfolio-section .my-class li{
+            padding: 3px 14px;
+        }
+        /* Portfolio Section End Here */
+
+
+        /* Testimonial Section Start Here */
+        #testimonial-section .box{
+            height: auto;
+        }
+        /* Testimonial Section End Here */
+
+
+        /* Team Section Start Here */
+        #team-section .box{
+            height: auto;
+        }
+        /* Team Section End Here */
+
+
+        /* Blog Section Start Here */
+        #blog-section .tittle > p{
+            font-size: 17px;
+        }
+        #blog-section .box{
+            height: auto;
+            margin-bottom: 20px;
+        }
+        /* Blog Section End Here */
+
+
+        /* Contact Section Start Here */
+        #contact-section .one{
+            margin-bottom: 10px;
+        }
+        #contact-section .two{
+            width: 100%;
+        }
+        #contact-section textarea{
+            width: 100%;
+        }
+        /* Contact Section End Here */
+
+
+        /* News Section Start Here */
+        #news-section .width{
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        #news-section .width1{
+            width: 100%;
+        }
+        /* News Section Start Here */
+
+
+        /* Footer Section Start Here */
+        #footer-section .wd-50{
+            width: 100%;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        #footer-section .color{
+            width: 100%;
+            text-align: center;
+        }
+        /* Footer Section End Here */
+
+
+        /* End Section Start here */
+        .end-section p{
+            font-size: 13px;
+        }
+        /* End Section End here */
+    }
+}
